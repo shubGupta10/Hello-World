@@ -10,7 +10,7 @@ This project serves as a minimal example for beginners to understand the structu
 
 No specific setup is required for this repository, as it primarily contains documentation.
 
-## Contributions
+## Contributionsyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 
 Contributions are welcome to improve the documentation or example.
 
